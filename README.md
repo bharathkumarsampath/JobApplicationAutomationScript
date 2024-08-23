@@ -31,8 +31,8 @@ This repository contains Python scripts designed to automate the job application
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/job-application-automation.git
-   cd job-application-automation
+   git clone https://github.com/bharathkumarsampath/JobApplicationAutomationScript.git
+   cd JobApplicationAutomationScript
    ```
 
 2. **Set Up Configurations:**
